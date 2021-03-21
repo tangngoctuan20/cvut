@@ -10,5 +10,5 @@ setuptools.setup(
 # 		'ipython', 'pylint', 'ipympl', 'pyyaml', 'tqdm', 'future',
 # 	],
 	python_requires='>=3.6',
-	package_dir = {"":"src"}
+	package_dir = {"":"cvut"}
 )
